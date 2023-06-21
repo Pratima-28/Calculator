@@ -1,0 +1,27 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.display{
+    padding-right: 10px;
+    margin: 30px;
+    margin-bottom: -31px;
+    background-color: #c5d0d8;
+    height: 60px;
+    width: 340px;
+    border: 1px solid rgb(153, 152, 150);
+    font-size: 35px;
+    text-align: right;
+}
+
+/* .show{
+    background-color: beige;
+    margin: 30px;
+    margin-bottom: -5px;
+    height: 60px;
+    width: 300px;
+    border: 2px solid black;
+    font-size: 40px;
+} */

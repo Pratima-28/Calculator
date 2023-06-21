@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(173, 194, 233);
+}
+.container{
+    margin-top: 80px;
+    align-items: flex-start;
+    display: flex;
+    justify-content: center;
+}
+.calculator {
+    background-color: #031f43;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 5%;
+  }

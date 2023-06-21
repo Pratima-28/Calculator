@@ -1,0 +1,33 @@
+.button{
+    margin: 10px;
+    padding: 20px;
+}
+
+.btn{
+    height: 70px;
+    width: 70px;
+    margin: 5px;
+    margin-top: 30px;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 10%;
+    cursor: pointer;
+}
+
+.number{
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+    font-size: 30px;
+    border: 1px solid black;
+    border-radius: 20%;
+    cursor: pointer;
+}
+
+.btn:hover, 
+.number:hover{
+    background-color: rgb(196, 217, 238);
+}
+
+
+
